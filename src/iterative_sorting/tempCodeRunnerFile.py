@@ -1,0 +1,1 @@
+    arr[current_biggest_indx] = arr[j]
